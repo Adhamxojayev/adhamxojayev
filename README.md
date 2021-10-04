@@ -1,6 +1,4 @@
-<!-- [![Header](https://github.com/mukhammadyn/mukhammadyn/blob/main/assets/guthub-header.png)](https://t.me/mukhammadyn) -->
-
-## Studied for 7 months in backend bootcamp course of "Najot Ta'lim". Open to work.
+[![Header](https://github.com/Adhamxojayev/adhamxojayev/blob/master/assest/ahror-bg.png)](https://t.me/Ahror_Adhamxojayev)
 
 ### Languages and Tools
 
