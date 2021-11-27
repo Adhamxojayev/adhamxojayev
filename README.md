@@ -24,6 +24,10 @@
 ![Email:axroradhamxojayev@gmail.com](https://img.shields.io/badge/-axroradhamxojayev@gmail.com-082032?style=for-the-badge&logo=Gmail&logoColor=#EA4335)
 [![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/Ahror_Adhamxojayev)
 
+### My algorithms
+
+[![LeetCode](https://img.shields.io/badge/-LinkedIn-082032?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://leetcode.com/Axror01/)
+[![Codewars](https://img.shields.io/badge/-YouTube-082032?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.codewars.com/users/Adhamxojayev/completed_solutions)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adhamxojayev&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
