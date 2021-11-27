@@ -1,30 +1,27 @@
-### Languages and Tools
+## i am a Node.js backend programmer 
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-082032?style=for-the-badge&logo=JavaScript&logoColor=#3776AB)
-![Node.js](https://img.shields.io/badge/-Node.js-082032?style=for-the-badge&logo=Node.js&logoColor=#339933)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-082032?style=for-the-badge&logo=PostgreSQL&logoColor=#4169E1)
-![MongoDB](https://img.shields.io/badge/-MongoDB-082032?style=for-the-badge&logo=MongoDB&logoColor=#47A248)
-![HTML](https://img.shields.io/badge/-HTML5-082032?style=for-the-badge&logo=HTML5&logoColor=#185ADB)
-![CSS3](https://img.shields.io/badge/-CSS3-082032?style=for-the-badge&logo=CSS3&logoColor=1572B6)
-![Git](https://img.shields.io/badge/-Git-082032?style=for-the-badge&logo=Git&logoColor=#F05032)
+<div align="center">
+  <a href="https://github.com/Adhamxojayev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adhamxojayev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhamxojayev&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-
-### Follow Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-082032?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/ahror-adhamxojayev-01a804216/)
-[![YouTube](https://img.shields.io/badge/-YouTube-082032?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/channel/UCCOMpakRNl4sQwngPpjqUfQ)
-
-
-### Contact With Me
-
-![Email:axroradhamxojayev@gmail.com](https://img.shields.io/badge/-axroradhamxojayev@gmail.com-082032?style=for-the-badge&logo=Gmail&logoColor=#EA4335)
-[![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/Ahror_Adhamxojayev)
-
-### My algorithms
-
-[![LeetCode](https://img.shields.io/badge/-LinkedIn-082032?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://leetcode.com/Axror01/)
-[![Codewars](https://img.shields.io/badge/-YouTube-082032?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.codewars.com/users/Adhamxojayev/completed_solutions)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adhamxojayev&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adhamxojayev&langs_count=8&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
+  <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+  
+##
+ 
+<div> 
+  <a href="https://www.youtube.com/channel/UCCOMpakRNl4sQwngPpjqUfQ/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ahror-adhamxojayev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:axroradhamxojayev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
+  ![Snake animation](https://github.com/Adhamxojayev/Adhamxojayev/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
