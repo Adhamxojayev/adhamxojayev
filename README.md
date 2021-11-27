@@ -1,13 +1,9 @@
-[![Header](https://github.com/Adhamxojayev/adhamxojayev/blob/master/assest/ahror-bg.png)](https://t.me/Ahror_Adhamxojayev)
-
 ### Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-082032?style=for-the-badge&logo=JavaScript&logoColor=#3776AB)
 ![Node.js](https://img.shields.io/badge/-Node.js-082032?style=for-the-badge&logo=Node.js&logoColor=#339933)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-082032?style=for-the-badge&logo=PostgreSQL&logoColor=#4169E1)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-082032?style=for-the-badge&logo=MongoDB&logoColor=#47A248)
-![React](https://img.shields.io/badge/-React-082032?style=for-the-badge&logo=React&logoColor=#61DAFB)
-![Python](https://img.shields.io/badge/-Python-082032?style=for-the-badge&logo=Python&logoColor=#3776AB)
 ![HTML](https://img.shields.io/badge/-HTML5-082032?style=for-the-badge&logo=HTML5&logoColor=#185ADB)
 ![CSS3](https://img.shields.io/badge/-CSS3-082032?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![Git](https://img.shields.io/badge/-Git-082032?style=for-the-badge&logo=Git&logoColor=#F05032)
