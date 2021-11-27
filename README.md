@@ -21,10 +21,8 @@
   <a href="https://www.youtube.com/channel/UCCOMpakRNl4sQwngPpjqUfQ/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ahror-adhamxojayev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:axroradhamxojayev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://leetcode.com/Axror01/"><img src="https://img.shields.io/badge/-LeetCode-%23000?style=for-the-badge&logo=LeetCode&logoColor=white
-  " target="_blank"></a>
-  <a href = "https://www.codewars.com/users/Adhamxojayev/"><img src="https://img.shields.io/badge/-Codewars-%23000?style=for-the-badge&logo=Codewars&logoColor=white
-  " target="_blank"></a>
+  <a href = "https://leetcode.com/Axror01/"><img src="https://img.shields.io/badge/-LeetCode-%23000?style=for-the-badge&logo=LeetCode&logoColor=white" target="_blank"></a>
+  <a href = "https://www.codewars.com/users/Adhamxojayev/"><img src="https://img.shields.io/badge/-Codewars-%23000?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank"></a>
  
 
   ![Snake animation](https://github.com/Adhamxojayev/Adhamxojayev/blob/output/github-contribution-grid-snake.svg)
