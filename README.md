@@ -1,4 +1,4 @@
-## i am a Node.js backend programmer 
+## i am a Node.js backend developer 
 
 <div align="center">
   <a href="https://github.com/Adhamxojayev">
